@@ -1,0 +1,22 @@
+{
+  "name": "omnistack8",
+  "version": "1.0.0",
+  "description": "Semana OmniStack 8 de treinamento em NodeJS, React e React Native.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunv/omnistack8.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunv/omnistack8/issues"
+  },
+  "homepage": "https://github.com/brunv/omnistack8#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
