@@ -13,7 +13,7 @@ export default function Login({ history }) {
         const response = await api.post('/devs', {
             username,
         });
-        console.log(response.data);
+        // console.log(response.data);
         const { _id } = response.data;
 
         history.push(`/dev/${_id}`);
